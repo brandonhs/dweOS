@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.7.7] - 2026-10-01
+
+### Miscellaneous Tasks
+
+- *(release)* Automate release branch, changelog, and tagging
+- *(release)* Accept only plain vX.Y.Z release versions
+- *(release)* Regenerate the changelog from the v0.7.3 baseline
+- *(release)* Make bump_version.sh executable
+
 ## [0.7.6] - 2026-09-30
 
 ### Features
